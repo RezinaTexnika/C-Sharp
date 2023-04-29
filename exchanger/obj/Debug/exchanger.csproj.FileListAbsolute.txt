@@ -1,0 +1,8 @@
+C:\Users\Rinat\Desktop\C#\exchanger\bin\Debug\exchanger.exe.config
+C:\Users\Rinat\Desktop\C#\exchanger\bin\Debug\exchanger.exe
+C:\Users\Rinat\Desktop\C#\exchanger\bin\Debug\exchanger.pdb
+C:\Users\Rinat\Desktop\C#\exchanger\obj\Debug\exchanger.csproj.AssemblyReference.cache
+C:\Users\Rinat\Desktop\C#\exchanger\obj\Debug\exchanger.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rinat\Desktop\C#\exchanger\obj\Debug\exchanger.csproj.CoreCompileInputs.cache
+C:\Users\Rinat\Desktop\C#\exchanger\obj\Debug\exchanger.exe
+C:\Users\Rinat\Desktop\C#\exchanger\obj\Debug\exchanger.pdb
