@@ -1,0 +1,8 @@
+C:\Users\Rinat\Desktop\C#\Cafe\bin\Debug\Cafe.exe.config
+C:\Users\Rinat\Desktop\C#\Cafe\bin\Debug\Cafe.exe
+C:\Users\Rinat\Desktop\C#\Cafe\bin\Debug\Cafe.pdb
+C:\Users\Rinat\Desktop\C#\Cafe\obj\Debug\Cafe.csproj.AssemblyReference.cache
+C:\Users\Rinat\Desktop\C#\Cafe\obj\Debug\Cafe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rinat\Desktop\C#\Cafe\obj\Debug\Cafe.csproj.CoreCompileInputs.cache
+C:\Users\Rinat\Desktop\C#\Cafe\obj\Debug\Cafe.exe
+C:\Users\Rinat\Desktop\C#\Cafe\obj\Debug\Cafe.pdb
